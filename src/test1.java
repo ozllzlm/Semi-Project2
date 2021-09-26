@@ -6,7 +6,7 @@ public class test1 {
 		System.out.println("test");
 		System.out.println(123);
 		System.out.println("test");
-		System.out.println("tet");
+		System.out.println("123tet");
 	}
 
 }

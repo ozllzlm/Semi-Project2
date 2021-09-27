@@ -9,7 +9,7 @@ public class test1 {
 		System.out.println("123sadtet");
 		System.out.println("test123");
 		System.out.println("test123");
-		System.out.println("test");	//예림
+		System.out.println("Testtest");  //예림	
 	}
 
 }
